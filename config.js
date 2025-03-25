@@ -38,7 +38,8 @@ module.exports = {
       })  
     : new Sequelize(DATABASE_URL, {
         dialect: 'postgres',
-        ssl: true,
+      {
+      ssl : true,
         protocol: 'postgres',
         dialectOptions: {
           native: true,
@@ -47,3 +48,10 @@ module.exports = {
         logging: false,
       }),
 };
+: dialect: 'postgres',
+  new Sequelize(DATABASE_URL, {
+    media.Key {retrieve.mmg/client/@s.whatsapp.net}
+send.MediaMessage {catch.error};
+{
+  if catch.error = store{tsclient://setup/C:/pasth/vishnu/chika/programfiles/com.whatsapp/setupstorage}
+store.LocalReference Error
